@@ -1,3 +1,11 @@
+# Requirements
+
+This prohect needs
+
+- [nlohmann/json](https://github.com/nlohmann/json)
+- [raysan5/raylib](https://github.com/raysan5/raylib)
+  to run.
+
 # To run
 
 - CD into the build folder
