@@ -1,5 +1,4 @@
-#include "get_map_arrows.h"
-#include <typeinfo>
+#include "get_map_arrows.hpp"
 
 using json = nlohmann::json;
 

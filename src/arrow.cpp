@@ -1,4 +1,4 @@
-#include "arrow.h"
+#include "arrow.hpp"
 
 Arrow::Arrow(Direction direction, beatPos pos)
 {

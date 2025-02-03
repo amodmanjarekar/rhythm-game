@@ -4,11 +4,11 @@
 #include <raymath.h>
 #include <vector>
 
-#include "configs.h"
-#include "directions.h"
-#include "arrow.h"
-#include "get_map_arrows.h"
-#include "song.h"
+#include "configs.hpp"
+#include "directions.hpp"
+#include "arrow.hpp"
+#include "get_map_arrows.hpp"
+#include "song.hpp"
 
 class Game
 {

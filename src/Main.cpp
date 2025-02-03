@@ -1,9 +1,9 @@
 #include <raylib.h>
 
-#include "configs.h"
-#include "game.h"
-#include "directions.h"
-#include "song.h"
+#include "configs.hpp"
+#include "game.hpp"
+#include "directions.hpp"
+#include "song.hpp"
 
 int main()
 {

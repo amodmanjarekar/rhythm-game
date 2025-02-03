@@ -2,7 +2,7 @@
 
 #include <raylib.h>
 
-#include "configs.h"
+#include "configs.hpp"
 
 class Song
 {

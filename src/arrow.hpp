@@ -4,8 +4,8 @@
 #include <map>
 #include <cmath>
 
-#include "directions.h"
-#include "configs.h"
+#include "directions.hpp"
+#include "configs.hpp"
 
 class Arrow
 {
