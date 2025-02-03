@@ -1,0 +1,55 @@
+{
+  "name": "Shine",
+  "artist": "ARHANT",
+  "author": "cs",
+  "arrow_map": [
+    {
+      "from": "BOTTOM",
+      "bar": 2,
+      "beat": 4,
+      "tick": 3
+    },
+    {
+      "from": "TOP",
+      "bar": 3,
+      "beat": 1,
+      "tick": 2
+    },
+    {
+      "from": "BOTTOM",
+      "bar": 3,
+      "beat": 2,
+      "tick": 4
+    },
+    {
+      "from": "LEFT",
+      "bar": 3,
+      "beat": 3,
+      "tick": 2
+    },
+    {
+      "from": "BOTTOM",
+      "bar": 3,
+      "beat": 4,
+      "tick": 4
+    },
+    {
+      "from": "RIGHT",
+      "bar": 4,
+      "beat": 1,
+      "tick": 2
+    },
+    {
+      "from": "BOTTOM",
+      "bar": 4,
+      "beat": 2,
+      "tick": 4
+    },
+    {
+      "from": "LEFT",
+      "bar": 4,
+      "beat": 3,
+      "tick": 2
+    }
+  ]
+}
